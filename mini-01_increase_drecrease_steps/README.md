@@ -1,4 +1,4 @@
-আপনার mini-01_increase_drecrease_steps প্রজেক্টের জন্য একটি স্ট্যান্ডার্ড এবং প্রফেশনাল ইংরেজি README.md নিচে দেওয়া হলো। এটি কপি করে আপনার প্রজেক্ট ফোল্ডারে ব্যবহার করতে পারেন।
+
 
 🔢 Number Increaser & Decreaser (Step-wise)
 A simple and interactive JavaScript application that allows users to increment or decrement a number based on a custom defined step size. This project focuses on mastering DOM Manipulation and Event Handling in Vanilla JavaScript.
