@@ -14,7 +14,7 @@ A practical mini-project focused on core web technologies. This application allo
 - **JavaScript (ES6):** Logic implementation, event handling, and dynamic UI updates.
 
 ## 📁 Folder Structure
-```text
+text
 mini-01_increase_drecrease_steps/
 ├── index.html
 ├── style.css
