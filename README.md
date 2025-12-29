@@ -39,3 +39,12 @@ To build these solutions, I utilize a variety of modern tools:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Jahir-tawhid/mini-projects.git](https://github.com/Jahir-tawhid/mini-projects.git)
+
+2. Navigate to a specific project folder: cd project-folder-name
+
+3. Open index.html or follow the specific instructions inside the folder's README.
+
+📫 Connect with Me
+GitHub: @Jahir-tawhid
+
+Specialization: Building Smart Web Solutions | Next.js | AI Integration
