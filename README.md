@@ -16,7 +16,7 @@ To build these solutions, I utilize a variety of modern tools:
 
 ---
 
-## 📑 Project Directory
+## 📑 mini Projects Directory:
 
 | Day | Project Name | Tech Stack | Source Code | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ To build these solutions, I utilize a variety of modern tools:
 
 ---
 
-## 🚀 Key Objectives
+## 🚀 Key Objectives-
 - **TypeScript Implementation:** Ensuring type safety and robust code.
 - **Tailwind CSS:** Building fast, responsive, and modern UIs.
 - **AI Integration Specialist:** Implementing smart features and automation.
@@ -35,7 +35,7 @@ To build these solutions, I utilize a variety of modern tools:
 
 ---
 
-## ⚙️ How to Run Locally
+## ⚙️ How to Run Locally:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Jahir-tawhid/mini-projects.git](https://github.com/Jahir-tawhid/mini-projects.git)
@@ -45,7 +45,7 @@ To build these solutions, I utilize a variety of modern tools:
 
 3. Open index.html or follow the specific instructions inside the folder's README.
 
-📫 Connect with Me
+📫 Connect with Me:
 GitHub: @Jahir-tawhid
 
 # Specialization: Building Smart Web Solutions | Next.js | AI Integration
