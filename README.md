@@ -21,7 +21,7 @@ To build these solutions, I utilize a variety of modern tools:
 | Day | Project Name | Tech Stack | Source Code | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
 | 01 | Increase/Decrease Steps | HTML, CSS, JS | [View](./mini-01_increase_drecrease_steps) | [Live](https://jahir-tawhid.github.io/mini-projects/mini-01_increase_drecrease_steps/) |
-| 02 | Smart AI Component | Next.js, TS, AI | [View](./mini-02_ai_component) | [Live](#) |
+| 02 | GENERATE Random RGB color | HTML, CSS, JS | [View](./mini-02_GENERATE Random RGB color) | [Live](#) |
 
 *(Note: New projects are added daily!)*
 
