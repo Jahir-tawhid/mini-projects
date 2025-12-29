@@ -45,7 +45,7 @@ To build these solutions, I utilize a variety of modern tools:
 
 3. Open index.html or follow the specific instructions inside the folder's README.
 
-#📫 Connect with Me
+📫 Connect with Me
 GitHub: @Jahir-tawhid
 
 # Specialization: Building Smart Web Solutions | Next.js | AI Integration
