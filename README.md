@@ -1,4 +1,4 @@
-# 🚀 Daily Mini Projects Collection
+# 🚀 Mini Projects Collection:
 
 Welcome to my mini-projects repository! This is a dedicated space where I showcase my daily coding journey, experimenting with modern web technologies, AI integrations, and smart web solutions.
 
