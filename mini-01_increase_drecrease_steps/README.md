@@ -31,4 +31,4 @@ In this project, I focused on:
 3. Maintaining clean and readable code architecture.
 
 🔗 Live Demo
-Check out the live application here: Live Preview
+Check out the live application here:  https://jahir-tawhid.github.io/mini-projects/
