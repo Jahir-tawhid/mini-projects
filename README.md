@@ -47,5 +47,6 @@ To build these solutions, I utilize a variety of modern tools:
 
 📫 Connect with Me:
 GitHub: @Jahir-tawhid
-
+# Live Link:
+ https://jahir-tawhid.github.io/mini-projects/
 # Specialization: Building Smart Web Solutions | Next.js | AI Integration
